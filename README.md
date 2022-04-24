@@ -1,6 +1,6 @@
 # StompBox3000
 ## Summary: 
-In the project, we will create a single function effects pedal with applications in electric guitar sound manipulation. An arduino will be used as a microcontroller. This will require the use of DSP, embedded system and circuit design skills.
+In the project, we will create a single function effects pedal with applications in electric guitar sound manipulation. An arduino will be used as a microcontroller. This will require the use of DSP, embedded system and circuit design skills. Please refer to the [wiki](https://github.com/ninomcgowan/StompBox3000/wiki) page to find more details about the project.
 ## Team members:
 * Nino McGowan
 * Tra Yen Nhu Phan
